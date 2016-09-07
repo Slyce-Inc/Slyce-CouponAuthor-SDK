@@ -1,0 +1,6 @@
+framework module CouponAuthorSDK {
+  umbrella header "CouponAuthorSDK.h"
+
+  export *
+  module * { export * }
+}
