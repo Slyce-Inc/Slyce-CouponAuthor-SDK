@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SSBucket.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SSBucket</TokenIdentifier>
+			<Abstract type="html">A bucket is a collection of SSCoupons</Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+            
+			
+			<NodeRef refid="3"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/setBucketId:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) int bucketId</Declaration>
+			
+			
+			<Anchor>//api/name/bucketId</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/bucketId</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) int bucketId</Declaration>
+			
+			
+			<Anchor>//api/name/bucketId</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSBucket/bucketId</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) int bucketId</Declaration>
+			
+			
+			<Anchor>//api/name/bucketId</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/setName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSBucket/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/setUtmMedium:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *utmMedium</Declaration>
+			
+			
+			<Anchor>//api/name/utmMedium</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/utmMedium</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *utmMedium</Declaration>
+			
+			
+			<Anchor>//api/name/utmMedium</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSBucket/utmMedium</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *utmMedium</Declaration>
+			
+			
+			<Anchor>//api/name/utmMedium</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/setUtmSource:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *utmSource</Declaration>
+			
+			
+			<Anchor>//api/name/utmSource</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/utmSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *utmSource</Declaration>
+			
+			
+			<Anchor>//api/name/utmSource</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSBucket/utmSource</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *utmSource</Declaration>
+			
+			
+			<Anchor>//api/name/utmSource</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/setAdvertiser:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) SSAdvertiser *advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/advertiser</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/advertiser</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) SSAdvertiser *advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/advertiser</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSBucket/advertiser</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) SSAdvertiser *advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/advertiser</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/setCoupons:</TokenIdentifier>
+			<Abstract type="html">Array of SSCoupons</Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *coupons</Declaration>
+			
+			
+			<Anchor>//api/name/coupons</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/coupons</TokenIdentifier>
+			<Abstract type="html">Array of SSCoupons</Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *coupons</Declaration>
+			
+			
+			<Anchor>//api/name/coupons</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSBucket/coupons</TokenIdentifier>
+			<Abstract type="html">Array of SSCoupons</Abstract>
+			<DeclaredIn>SSBucket.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *coupons</Declaration>
+			
+			
+			<Anchor>//api/name/coupons</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/initWithJson:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSBucket *)initWithJson:(NSString *)jsonData</Declaration>
+			
+			
+			<Anchor>//api/name/initWithJson:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSBucket/initFromDict:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSBucket+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSBucket *)initFromDict:(NSDictionary *)dictFromJson</Declaration>
+			
+			
+			<Anchor>//api/name/initFromDict:</Anchor>
+            <NodeRef refid="3"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

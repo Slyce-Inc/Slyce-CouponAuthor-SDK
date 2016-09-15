@@ -21,25 +21,17 @@
     CouponAuthorSDK *CA = [CouponAuthorSDK sharedInstance];
     CA.delegate = self;
     
-    [CA getBucketWithSource:nil andMedium:nil];
-    
-    [CA getBucketWithId:279];
+    [CA getBucketWithId:279]; // Your Bucket Id
     
     [CA getCouponWithId:1658];
     
-    [CA getCouponWithBarcodeValue:@"1110002073014"];
-
+    [CA getCouponWithBarcodeValue:@"1110002073014"]; 
     
     // Do any additional setup after loading the view, typically from a nib.
 }
 
 #pragma mark -
 #pragma mark CouponAuthorDelegate
-
--(void) didReceiveBucket:(SSBucket *)bucket
-{
-    NSLog(@"didReceiveBucket bucket %@",bucket);
-}
 
 -(void) didReceiveBucketById:(SSBucket *)bucket
 {

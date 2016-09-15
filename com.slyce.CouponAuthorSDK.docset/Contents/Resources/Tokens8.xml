@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Protocols/CouponAuthorDelegate.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intf/CouponAuthorDelegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
+            
+			
+			<NodeRef refid="8"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/CouponAuthorDelegate/didReceiveBucketById:</TokenIdentifier>
+			<Abstract type="html">Informs the CouponAuthorDelegate that the bucket has been retrieved</Abstract>
+			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
+			
+			<Declaration>- (void)didReceiveBucketById:(SSBucket *)bucket</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>bucket</Name>
+					<Abstract type="html">SSBucket.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/didReceiveBucketById:</Anchor>
+            <NodeRef refid="8"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/CouponAuthorDelegate/didReceiveCouponById:</TokenIdentifier>
+			<Abstract type="html">Informs the CouponAuthorDelegate that the coupon has been retrieved</Abstract>
+			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
+			
+			<Declaration>- (void)didReceiveCouponById:(SSCoupon *)coupon</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>coupon</Name>
+					<Abstract type="html">SSCoupon.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/didReceiveCouponById:</Anchor>
+            <NodeRef refid="8"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/CouponAuthorDelegate/didReceiveCouponByBarcodeValue:</TokenIdentifier>
+			<Abstract type="html">Informs the CouponAuthorDelegate that the coupon has been retrieved</Abstract>
+			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
+			
+			<Declaration>- (void)didReceiveCouponByBarcodeValue:(SSCoupon *)coupon</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>coupon</Name>
+					<Abstract type="html">SSCoupon.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/didReceiveCouponByBarcodeValue:</Anchor>
+            <NodeRef refid="8"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/CouponAuthorDelegate/didFailWithError:</TokenIdentifier>
+			<Abstract type="html">Informs the CouponAuthorDelegate that an error has occured while trying to complete the request.</Abstract>
+			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
+			
+			<Declaration>- (void)didFailWithError:(NSError *)error</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>error</Name>
+					<Abstract type="html">the encountered matching error.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/didFailWithError:</Anchor>
+            <NodeRef refid="8"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

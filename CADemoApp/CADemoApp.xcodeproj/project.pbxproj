@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D75786341D7F135200517B29 /* CouponAuthorSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D75786331D7F135200517B29 /* CouponAuthorSDK.framework */; };
-		D75786351D7F135200517B29 /* CouponAuthorSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D75786331D7F135200517B29 /* CouponAuthorSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		D731001B1D8AD8B10081C7AE /* CouponAuthorSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D731001A1D8AD8B10081C7AE /* CouponAuthorSDK.framework */; };
+		D731001C1D8AD8B10081C7AE /* CouponAuthorSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D731001A1D8AD8B10081C7AE /* CouponAuthorSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		D75905851D7EF44B000F8D0D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D75905841D7EF44B000F8D0D /* main.m */; };
 		D75905881D7EF44B000F8D0D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D75905871D7EF44B000F8D0D /* AppDelegate.m */; };
 		D759058B1D7EF44B000F8D0D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D759058A1D7EF44B000F8D0D /* ViewController.m */; };
@@ -18,13 +18,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		D75786361D7F135200517B29 /* Embed Frameworks */ = {
+		D731001D1D8AD8B20081C7AE /* Embed Frameworks */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				D75786351D7F135200517B29 /* CouponAuthorSDK.framework in Embed Frameworks */,
+				D731001C1D8AD8B10081C7AE /* CouponAuthorSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -32,7 +32,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D75786331D7F135200517B29 /* CouponAuthorSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CouponAuthorSDK.framework; sourceTree = "<group>"; };
+		D731001A1D8AD8B10081C7AE /* CouponAuthorSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CouponAuthorSDK.framework; sourceTree = "<group>"; };
 		D75905801D7EF44B000F8D0D /* CADemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CADemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D75905841D7EF44B000F8D0D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D75905861D7EF44B000F8D0D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D75786341D7F135200517B29 /* CouponAuthorSDK.framework in Frameworks */,
+				D731001B1D8AD8B10081C7AE /* CouponAuthorSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,7 +60,7 @@
 		D75905771D7EF44B000F8D0D = {
 			isa = PBXGroup;
 			children = (
-				D75786331D7F135200517B29 /* CouponAuthorSDK.framework */,
+				D731001A1D8AD8B10081C7AE /* CouponAuthorSDK.framework */,
 				D75905821D7EF44B000F8D0D /* CADemoApp */,
 				D75905811D7EF44B000F8D0D /* Products */,
 			);
@@ -108,7 +108,7 @@
 				D759057C1D7EF44B000F8D0D /* Sources */,
 				D759057D1D7EF44B000F8D0D /* Frameworks */,
 				D759057E1D7EF44B000F8D0D /* Resources */,
-				D75786361D7F135200517B29 /* Embed Frameworks */,
+				D731001D1D8AD8B20081C7AE /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -130,6 +130,7 @@
 				TargetAttributes = {
 					D759057F1D7EF44B000F8D0D = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = Q5F56GDW4P;
 					};
 				};
 			};
@@ -283,6 +284,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q5F56GDW4P;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -299,6 +301,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q5F56GDW4P;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",

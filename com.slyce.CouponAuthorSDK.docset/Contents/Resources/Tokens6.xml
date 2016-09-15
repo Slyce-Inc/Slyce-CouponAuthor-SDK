@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SSCouponTier.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SSCouponTier</TokenIdentifier>
+			<Abstract type="html">This represents a discount tier for an SSCoupon</Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+            
+			
+			<NodeRef refid="6"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setFaceValue:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *faceValue</Declaration>
+			
+			
+			<Anchor>//api/name/faceValue</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/faceValue</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *faceValue</Declaration>
+			
+			
+			<Anchor>//api/name/faceValue</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/faceValue</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *faceValue</Declaration>
+			
+			
+			<Anchor>//api/name/faceValue</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setPromoCode:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *promoCode</Declaration>
+			
+			
+			<Anchor>//api/name/promoCode</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/promoCode</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *promoCode</Declaration>
+			
+			
+			<Anchor>//api/name/promoCode</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/promoCode</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *promoCode</Declaration>
+			
+			
+			<Anchor>//api/name/promoCode</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setOnlinePromoCode:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *onlinePromoCode</Declaration>
+			
+			
+			<Anchor>//api/name/onlinePromoCode</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/onlinePromoCode</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *onlinePromoCode</Declaration>
+			
+			
+			<Anchor>//api/name/onlinePromoCode</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/onlinePromoCode</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *onlinePromoCode</Declaration>
+			
+			
+			<Anchor>//api/name/onlinePromoCode</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setOnlineRedemptionInstructions:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *onlineRedemptionInstructions</Declaration>
+			
+			
+			<Anchor>//api/name/onlineRedemptionInstructions</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/onlineRedemptionInstructions</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *onlineRedemptionInstructions</Declaration>
+			
+			
+			<Anchor>//api/name/onlineRedemptionInstructions</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/onlineRedemptionInstructions</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *onlineRedemptionInstructions</Declaration>
+			
+			
+			<Anchor>//api/name/onlineRedemptionInstructions</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setOnlineStoreUrl:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *onlineStoreUrl</Declaration>
+			
+			
+			<Anchor>//api/name/onlineStoreUrl</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/onlineStoreUrl</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *onlineStoreUrl</Declaration>
+			
+			
+			<Anchor>//api/name/onlineStoreUrl</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/onlineStoreUrl</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *onlineStoreUrl</Declaration>
+			
+			
+			<Anchor>//api/name/onlineStoreUrl</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setBarcodeImage:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *barcodeImage</Declaration>
+			
+			
+			<Anchor>//api/name/barcodeImage</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/barcodeImage</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *barcodeImage</Declaration>
+			
+			
+			<Anchor>//api/name/barcodeImage</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/barcodeImage</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *barcodeImage</Declaration>
+			
+			
+			<Anchor>//api/name/barcodeImage</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/setBarcodeValue:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *barcodeValue</Declaration>
+			
+			
+			<Anchor>//api/name/barcodeValue</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/barcodeValue</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *barcodeValue</Declaration>
+			
+			
+			<Anchor>//api/name/barcodeValue</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCouponTier/barcodeValue</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCouponTier.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *barcodeValue</Declaration>
+			
+			
+			<Anchor>//api/name/barcodeValue</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCouponTier/initFromDict:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCouponTier+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSCouponTier *)initFromDict:(NSDictionary *)dictFromJson</Declaration>
+			
+			
+			<Anchor>//api/name/initFromDict:</Anchor>
+            <NodeRef refid="6"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

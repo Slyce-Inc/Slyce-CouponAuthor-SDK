@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SSDebugger.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SSDebugger</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSDebugger.h</DeclaredIn>
+            
+			
+			<NodeRef refid="7"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/SSDebugger/snipSnapDebug:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSDebugger.h</DeclaredIn>
+			
+			<Declaration>+ (void)snipSnapDebug:(NSString *)debugString</Declaration>
+			
+			
+			<Anchor>//api/name/snipSnapDebug:</Anchor>
+            <NodeRef refid="7"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

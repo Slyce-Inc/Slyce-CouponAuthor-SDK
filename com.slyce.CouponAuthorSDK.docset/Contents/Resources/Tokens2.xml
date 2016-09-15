@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SSAdvertiser.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SSAdvertiser</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+            
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/setAdvertiserId:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) int advertiserId</Declaration>
+			
+			
+			<Anchor>//api/name/advertiserId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/advertiserId</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) int advertiserId</Declaration>
+			
+			
+			<Anchor>//api/name/advertiserId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSAdvertiser/advertiserId</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) int advertiserId</Declaration>
+			
+			
+			<Anchor>//api/name/advertiserId</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/setName:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSAdvertiser/name</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *name</Declaration>
+			
+			
+			<Anchor>//api/name/name</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/setBanner:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *banner</Declaration>
+			
+			
+			<Anchor>//api/name/banner</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/banner</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *banner</Declaration>
+			
+			
+			<Anchor>//api/name/banner</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSAdvertiser/banner</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *banner</Declaration>
+			
+			
+			<Anchor>//api/name/banner</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/setSquareLogo:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *squareLogo</Declaration>
+			
+			
+			<Anchor>//api/name/squareLogo</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/squareLogo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *squareLogo</Declaration>
+			
+			
+			<Anchor>//api/name/squareLogo</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSAdvertiser/squareLogo</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *squareLogo</Declaration>
+			
+			
+			<Anchor>//api/name/squareLogo</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/initWithJson:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSAdvertiser *)initWithJson:(NSString *)jsonData</Declaration>
+			
+			
+			<Anchor>//api/name/initWithJson:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSAdvertiser/initFromDict:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSAdvertiser+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSAdvertiser *)initFromDict:(NSDictionary *)dictFromJson</Declaration>
+			
+			
+			<Anchor>//api/name/initFromDict:</Anchor>
+            <NodeRef refid="2"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

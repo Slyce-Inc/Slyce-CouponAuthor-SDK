@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/CouponAuthorSDK.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/CouponAuthorSDK</TokenIdentifier>
+			<Abstract type="html">This is the main class through which you can communicate with the Coupon Author SDK.</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/CouponAuthorSDK/sharedInstance</TokenIdentifier>
+			<Abstract type="html">Initializes and returns a singleton instance of the SDK.</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>+ (id)sharedInstance</Declaration>
+			
+			<ReturnValue><Abstract type="html">a shared CouponAuthorSDK instance.</Abstract></ReturnValue>
+			<Anchor>//api/name/sharedInstance</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/setDelegate:</TokenIdentifier>
+			<Abstract type="html">The CouponAuthor delegate will be notified of the results.</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, weak) id&lt;CouponAuthorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/delegate</TokenIdentifier>
+			<Abstract type="html">The CouponAuthor delegate will be notified of the results.</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, weak) id&lt;CouponAuthorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/CouponAuthorSDK/delegate</TokenIdentifier>
+			<Abstract type="html">The CouponAuthor delegate will be notified of the results.</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, weak) id&lt;CouponAuthorDelegate&gt; delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/initWithApiKey:</TokenIdentifier>
+			<Abstract type="html">You must call initWithApiKey before you can use the API.</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>- (BOOL)initWithApiKey:(NSString *)apiKey</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>apiKey</Name>
+					<Abstract type="html">The api key.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/initWithApiKey:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/getBucketWithId:</TokenIdentifier>
+			<Abstract type="html">Returns bucket of coupons for a given bucket Id</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>- (void)getBucketWithId:(int)bucketId</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>bucketId</Name>
+					<Abstract type="html">The bucket id</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/getBucketWithId:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/getCouponWithId:</TokenIdentifier>
+			<Abstract type="html">Returns coupon for a given coupon Id</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>- (void)getCouponWithId:(int)couponId</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>couponId</Name>
+					<Abstract type="html">The coupon id</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/getCouponWithId:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/getCouponWithBarcodeValue:</TokenIdentifier>
+			<Abstract type="html">Returns coupon for a given barcode value</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>- (void)getCouponWithBarcodeValue:(NSString *)barcodeValue</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>barcodeValue</Name>
+					<Abstract type="html">The barcode value</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/getCouponWithBarcodeValue:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

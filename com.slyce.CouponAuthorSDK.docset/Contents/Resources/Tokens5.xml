@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SSCoupon.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SSCoupon</TokenIdentifier>
+			<Abstract type="html">This model contains all the information for a Coupon Author coupon</Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+            
+			
+			<NodeRef refid="5"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setCouponId:</TokenIdentifier>
+			<Abstract type="html">     Unique identifier for this coupon
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger couponId</Declaration>
+			
+			
+			<Anchor>//api/name/couponId</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/couponId</TokenIdentifier>
+			<Abstract type="html">     Unique identifier for this coupon
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger couponId</Declaration>
+			
+			
+			<Anchor>//api/name/couponId</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/couponId</TokenIdentifier>
+			<Abstract type="html">     Unique identifier for this coupon
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSInteger couponId</Declaration>
+			
+			
+			<Anchor>//api/name/couponId</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setHeadline:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *headline</Declaration>
+			
+			
+			<Anchor>//api/name/headline</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/headline</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *headline</Declaration>
+			
+			
+			<Anchor>//api/name/headline</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/headline</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *headline</Declaration>
+			
+			
+			<Anchor>//api/name/headline</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setCouponDescription:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *couponDescription</Declaration>
+			
+			
+			<Anchor>//api/name/couponDescription</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/couponDescription</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *couponDescription</Declaration>
+			
+			
+			<Anchor>//api/name/couponDescription</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/couponDescription</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *couponDescription</Declaration>
+			
+			
+			<Anchor>//api/name/couponDescription</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setTiers:</TokenIdentifier>
+			<Abstract type="html">     Array of SSCouponTiers
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *tiers</Declaration>
+			
+			
+			<Anchor>//api/name/tiers</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/tiers</TokenIdentifier>
+			<Abstract type="html">     Array of SSCouponTiers
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *tiers</Declaration>
+			
+			
+			<Anchor>//api/name/tiers</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/tiers</TokenIdentifier>
+			<Abstract type="html">     Array of SSCouponTiers
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSArray *tiers</Declaration>
+			
+			
+			<Anchor>//api/name/tiers</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setStartDate:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *startDate</Declaration>
+			
+			
+			<Anchor>//api/name/startDate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/startDate</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *startDate</Declaration>
+			
+			
+			<Anchor>//api/name/startDate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/startDate</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *startDate</Declaration>
+			
+			
+			<Anchor>//api/name/startDate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setExpirationDate:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *expirationDate</Declaration>
+			
+			
+			<Anchor>//api/name/expirationDate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/expirationDate</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *expirationDate</Declaration>
+			
+			
+			<Anchor>//api/name/expirationDate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/expirationDate</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDate *expirationDate</Declaration>
+			
+			
+			<Anchor>//api/name/expirationDate</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setRules:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *rules</Declaration>
+			
+			
+			<Anchor>//api/name/rules</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/rules</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *rules</Declaration>
+			
+			
+			<Anchor>//api/name/rules</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/rules</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *rules</Declaration>
+			
+			
+			<Anchor>//api/name/rules</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setTerms:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *terms</Declaration>
+			
+			
+			<Anchor>//api/name/terms</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/terms</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *terms</Declaration>
+			
+			
+			<Anchor>//api/name/terms</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/terms</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSString *terms</Declaration>
+			
+			
+			<Anchor>//api/name/terms</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setProductImages:</TokenIdentifier>
+			<Abstract type="html">     Dictionary of NSURLs for the product images, with keys &quot;original&quot; and &quot;thumb&quot;
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *productImages</Declaration>
+			
+			
+			<Anchor>//api/name/productImages</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/productImages</TokenIdentifier>
+			<Abstract type="html">     Dictionary of NSURLs for the product images, with keys &quot;original&quot; and &quot;thumb&quot;
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *productImages</Declaration>
+			
+			
+			<Anchor>//api/name/productImages</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/productImages</TokenIdentifier>
+			<Abstract type="html">     Dictionary of NSURLs for the product images, with keys &quot;original&quot; and &quot;thumb&quot;
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *productImages</Declaration>
+			
+			
+			<Anchor>//api/name/productImages</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setCouponImages:</TokenIdentifier>
+			<Abstract type="html">     Dictionary of NSURLs for the coupon images, with keys &quot;original&quot; and &quot;thumb&quot;
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *couponImages</Declaration>
+			
+			
+			<Anchor>//api/name/couponImages</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/couponImages</TokenIdentifier>
+			<Abstract type="html">     Dictionary of NSURLs for the coupon images, with keys &quot;original&quot; and &quot;thumb&quot;
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *couponImages</Declaration>
+			
+			
+			<Anchor>//api/name/couponImages</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/couponImages</TokenIdentifier>
+			<Abstract type="html">     Dictionary of NSURLs for the coupon images, with keys &quot;original&quot; and &quot;thumb&quot;
+     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSDictionary *couponImages</Declaration>
+			
+			
+			<Anchor>//api/name/couponImages</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setRedeemUrl:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *redeemUrl</Declaration>
+			
+			
+			<Anchor>//api/name/redeemUrl</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/redeemUrl</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *redeemUrl</Declaration>
+			
+			
+			<Anchor>//api/name/redeemUrl</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/redeemUrl</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *redeemUrl</Declaration>
+			
+			
+			<Anchor>//api/name/redeemUrl</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setImageRedemptionMobile:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL imageRedemptionMobile</Declaration>
+			
+			
+			<Anchor>//api/name/imageRedemptionMobile</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/imageRedemptionMobile</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL imageRedemptionMobile</Declaration>
+			
+			
+			<Anchor>//api/name/imageRedemptionMobile</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/imageRedemptionMobile</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL imageRedemptionMobile</Declaration>
+			
+			
+			<Anchor>//api/name/imageRedemptionMobile</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setImageRedemptionDesktop:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL imageRedemptionDesktop</Declaration>
+			
+			
+			<Anchor>//api/name/imageRedemptionDesktop</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/imageRedemptionDesktop</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL imageRedemptionDesktop</Declaration>
+			
+			
+			<Anchor>//api/name/imageRedemptionDesktop</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/imageRedemptionDesktop</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL imageRedemptionDesktop</Declaration>
+			
+			
+			<Anchor>//api/name/imageRedemptionDesktop</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setSingleUse:</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL singleUse</Declaration>
+			
+			
+			<Anchor>//api/name/singleUse</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/singleUse</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL singleUse</Declaration>
+			
+			
+			<Anchor>//api/name/singleUse</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/singleUse</TokenIdentifier>
+			<Abstract type="html">     </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) BOOL singleUse</Declaration>
+			
+			
+			<Anchor>//api/name/singleUse</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setAdvertiser:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) SSAdvertiser *advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/advertiser</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/advertiser</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) SSAdvertiser *advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/advertiser</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/advertiser</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) SSAdvertiser *advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/advertiser</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/initFromDict:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSCoupon *)initFromDict:(NSDictionary *)dictFromJson</Declaration>
+			
+			
+			<Anchor>//api/name/initFromDict:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/initWithJson:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon+Private.h</DeclaredIn>
+			
+			<Declaration>- (SSCoupon *)initWithJson:(NSString *)jsonData</Declaration>
+			
+			
+			<Anchor>//api/name/initWithJson:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setAdvertiser:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon+Private.h</DeclaredIn>
+			
+			<Declaration>- (void)setAdvertiser:(SSAdvertiser *)advertiser</Declaration>
+			
+			
+			<Anchor>//api/name/setAdvertiser:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/clm/SSCoupon/initCouponsWithJson:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCoupon+Private.h</DeclaredIn>
+			
+			<Declaration>+ (NSArray *)initCouponsWithJson:(NSString *)jsonArrayData</Declaration>
+			
+			
+			<Anchor>//api/name/initCouponsWithJson:</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

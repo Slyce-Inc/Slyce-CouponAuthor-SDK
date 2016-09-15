@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/SSCameraViewController.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/SSCameraViewController</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+            
+			
+			<NodeRef refid="4"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/setDelegate:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) id delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) id delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCameraViewController/delegate</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic) id delegate</Declaration>
+			
+			
+			<Anchor>//api/name/delegate</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/flipCamera:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>- (IBAction)flipCamera:(id)sender</Declaration>
+			
+			
+			<Anchor>//api/name/flipCamera:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/snap:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>- (IBAction)snap:(id)sender</Declaration>
+			
+			
+			<Anchor>//api/name/snap:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/closeScanView:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>- (IBAction)closeScanView:(id)sender</Declaration>
+			
+			
+			<Anchor>//api/name/closeScanView:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/cancel:</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>- (IBAction)cancel:(id)sender</Declaration>
+			
+			
+			<Anchor>//api/name/cancel:</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCameraViewController/resumeCapture</TokenIdentifier>
+			<Abstract type="html"></Abstract>
+			<DeclaredIn>SSCameraViewController.h</DeclaredIn>
+			
+			<Declaration>- (void)resumeCapture</Declaration>
+			
+			
+			<Anchor>//api/name/resumeCapture</Anchor>
+            <NodeRef refid="4"/>
+		</Token>
+		
+        
+        
+	</File>
+</Tokens>

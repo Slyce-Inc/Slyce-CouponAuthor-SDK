@@ -24,7 +24,7 @@
     
     // CouponAuthorSDK Init
     CouponAuthorSDK *couponAuthor = [CouponAuthorSDK sharedInstance];
-    [couponAuthor initWithApiKey:CA_API_KEY];
+    [couponAuthor initWithApiKey:@"Your Api Key"];
 
     
     return YES;
