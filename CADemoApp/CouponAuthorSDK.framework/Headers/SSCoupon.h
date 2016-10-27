@@ -41,6 +41,11 @@
     @property (nonatomic, readonly) NSString *terms;
 
     /**
+    */
+    @property (nonatomic, readonly) NSURL *passbookUrl;
+
+
+    /**
      Dictionary of NSURLs for the product images, with keys "original" and "thumb"
      */
     @property (nonatomic, readonly) NSDictionary	 *productImages;

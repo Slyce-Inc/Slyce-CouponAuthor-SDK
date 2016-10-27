@@ -307,6 +307,42 @@
 		</Token>
 		
 		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setPassbookUrl:</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *passbookUrl</Declaration>
+			
+			
+			<Anchor>//api/name/passbookUrl</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/passbookUrl</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *passbookUrl</Declaration>
+			
+			
+			<Anchor>//api/name/passbookUrl</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/SSCoupon/passbookUrl</TokenIdentifier>
+			<Abstract type="html">    </Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, readonly) NSURL *passbookUrl</Declaration>
+			
+			
+			<Anchor>//api/name/passbookUrl</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
 			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/setProductImages:</TokenIdentifier>
 			<Abstract type="html">     Dictionary of NSURLs for the product images, with keys &quot;original&quot; and &quot;thumb&quot;
      </Abstract>

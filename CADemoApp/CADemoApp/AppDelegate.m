@@ -10,7 +10,7 @@
 #import <CouponAuthorSDK/CouponAuthorSDK.h>
 
 
-#define CA_API_KEY @"Your API_KEY"
+#define CA_API_KEY @"Your Api Key"
 
 @interface AppDelegate ()
 
@@ -24,7 +24,7 @@
     
     // CouponAuthorSDK Init
     CouponAuthorSDK *couponAuthor = [CouponAuthorSDK sharedInstance];
-    [couponAuthor initWithApiKey:@"Your Api Key"];
+    [couponAuthor initWithApiKey:CA_API_KEY];
 
     
     return YES;
