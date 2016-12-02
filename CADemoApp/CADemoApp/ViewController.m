@@ -25,7 +25,13 @@
     
     [CA getCouponWithId:1658];
     
-    [CA getCouponWithBarcodeValue:@"1110002073014"]; 
+    [CA getCouponsWithEmail:@"user@gmail.com"];
+    
+    [CA getCouponWithBarcodeValue:@"1110002073014" andEmail:nil];
+    
+    [CA getCouponWithBarcodeValue:@"1110002073014" andEmail:@"user@gmail.com"];
+    
+
     
     // Do any additional setup after loading the view, typically from a nib.
 }
@@ -46,6 +52,11 @@
 -(void) didReceiveCouponByBarcodeValue:(SSCoupon *)coupon
 {
     NSLog(@"didReceiveCouponByBarcodeValue coupon %@",coupon);
+}
+
+-(void) didReceiveCouponByEmail:(NSArray *)coupons
+{
+    NSLog(@"didReceiveCouponByEmail coupons %@",coupons);
 }
 
 -(void) didFailWithError:(NSError *)error

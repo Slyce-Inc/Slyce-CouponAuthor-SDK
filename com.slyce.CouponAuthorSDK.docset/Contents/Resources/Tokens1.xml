@@ -112,19 +112,39 @@
 		</Token>
 		
 		<Token>
-			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/getCouponWithBarcodeValue:</TokenIdentifier>
-			<Abstract type="html">Returns coupon for a given barcode value</Abstract>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/getCouponsWithEmail:</TokenIdentifier>
+			<Abstract type="html">Returns coupons for a given user email</Abstract>
 			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
 			
-			<Declaration>- (void)getCouponWithBarcodeValue:(NSString *)barcodeValue</Declaration>
+			<Declaration>- (void)getCouponsWithEmail:(NSString *)email</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>email</Name>
+					<Abstract type="html">The user email</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/getCouponsWithEmail:</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/CouponAuthorSDK/getCouponWithBarcodeValue:andEmail:</TokenIdentifier>
+			<Abstract type="html">Returns coupon for a given barcode value and user email</Abstract>
+			<DeclaredIn>CouponAuthorSDK.h</DeclaredIn>
+			
+			<Declaration>- (void)getCouponWithBarcodeValue:(NSString *)barcodeValue andEmail:(NSString *)email</Declaration>
 			<Parameters>
 				<Parameter>
 					<Name>barcodeValue</Name>
 					<Abstract type="html">The barcode value</Abstract>
+				</Parameter><Parameter>
+					<Name>email</Name>
+					<Abstract type="html">The user email (optional).</Abstract>
 				</Parameter>
 			</Parameters>
 			
-			<Anchor>//api/name/getCouponWithBarcodeValue:</Anchor>
+			<Anchor>//api/name/getCouponWithBarcodeValue:andEmail:</Anchor>
             <NodeRef refid="1"/>
 		</Token>
 		

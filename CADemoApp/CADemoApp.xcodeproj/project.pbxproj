@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D74EC78A1DBF5B7D0000DA8A /* CouponAuthorSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D74EC7891DBF5B7D0000DA8A /* CouponAuthorSDK.framework */; };
-		D74EC78B1DBF5B7D0000DA8A /* CouponAuthorSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D74EC7891DBF5B7D0000DA8A /* CouponAuthorSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		D7382C151DF1A6AA0010D6D4 /* CouponAuthorSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7382C141DF1A6AA0010D6D4 /* CouponAuthorSDK.framework */; };
+		D7382C161DF1A6AA0010D6D4 /* CouponAuthorSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D7382C141DF1A6AA0010D6D4 /* CouponAuthorSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		D75905851D7EF44B000F8D0D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D75905841D7EF44B000F8D0D /* main.m */; };
 		D75905881D7EF44B000F8D0D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D75905871D7EF44B000F8D0D /* AppDelegate.m */; };
 		D759058B1D7EF44B000F8D0D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D759058A1D7EF44B000F8D0D /* ViewController.m */; };
@@ -24,7 +24,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				D74EC78B1DBF5B7D0000DA8A /* CouponAuthorSDK.framework in Embed Frameworks */,
+				D7382C161DF1A6AA0010D6D4 /* CouponAuthorSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -32,7 +32,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D74EC7891DBF5B7D0000DA8A /* CouponAuthorSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CouponAuthorSDK.framework; sourceTree = "<group>"; };
+		D7382C141DF1A6AA0010D6D4 /* CouponAuthorSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CouponAuthorSDK.framework; sourceTree = "<group>"; };
 		D75905801D7EF44B000F8D0D /* CADemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CADemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D75905841D7EF44B000F8D0D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D75905861D7EF44B000F8D0D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D74EC78A1DBF5B7D0000DA8A /* CouponAuthorSDK.framework in Frameworks */,
+				D7382C151DF1A6AA0010D6D4 /* CouponAuthorSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,7 +60,7 @@
 		D75905771D7EF44B000F8D0D = {
 			isa = PBXGroup;
 			children = (
-				D74EC7891DBF5B7D0000DA8A /* CouponAuthorSDK.framework */,
+				D7382C141DF1A6AA0010D6D4 /* CouponAuthorSDK.framework */,
 				D75905821D7EF44B000F8D0D /* CADemoApp */,
 				D75905811D7EF44B000F8D0D /* Products */,
 			);

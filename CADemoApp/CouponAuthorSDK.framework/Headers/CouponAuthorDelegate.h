@@ -32,12 +32,22 @@
 - (void)didReceiveCouponById:(SSCoupon *)coupon;
 
 /*!
+ *  @brief Informs the CouponAuthorDelegate that the coupons has been retrieved
+ *
+ *  @param coupons `NSArray` array of `SSCoupon`.
+ */
+
+- (void)didReceiveCouponByEmail:(NSArray *)coupons;
+
+
+/*!
  *  @brief Informs the CouponAuthorDelegate that the coupon has been retrieved
  *
  *  @param coupon `SSCoupon`.
  */
 
 - (void)didReceiveCouponByBarcodeValue:(SSCoupon *)coupon;
+
 
 /*!
  *  @brief Informs the CouponAuthorDelegate that an error has occured while trying to complete the request.

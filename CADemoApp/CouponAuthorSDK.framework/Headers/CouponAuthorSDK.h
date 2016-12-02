@@ -68,13 +68,23 @@
  */
 -(void)getCouponWithId:(int)couponId;
 
+
 /**
- Returns coupon for a given barcode value
+ Returns coupons for a given user email
  
- @param barcodeValue The barcode value
+ @param email The user email
  
  */
--(void)getCouponWithBarcodeValue:(NSString *)barcodeValue;
+-(void)getCouponsWithEmail:(NSString *)email;
 
+
+/**
+ Returns coupon for a given barcode value and user email
+ 
+ @param barcodeValue The barcode value
+ @param email The user email (optional).
+
+ */
+-(void)getCouponWithBarcodeValue:(NSString *)barcodeValue andEmail:(NSString *)email;
 
 @end

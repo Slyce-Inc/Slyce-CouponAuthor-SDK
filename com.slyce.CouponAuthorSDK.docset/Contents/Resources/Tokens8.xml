@@ -47,6 +47,23 @@
 		</Token>
 		
 		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/CouponAuthorDelegate/didReceiveCouponByEmail:</TokenIdentifier>
+			<Abstract type="html">Informs the CouponAuthorDelegate that the coupons has been retrieved</Abstract>
+			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
+			
+			<Declaration>- (void)didReceiveCouponByEmail:(NSArray *)coupons</Declaration>
+			<Parameters>
+				<Parameter>
+					<Name>coupons</Name>
+					<Abstract type="html">NSArray array of SSCoupon.</Abstract>
+				</Parameter>
+			</Parameters>
+			
+			<Anchor>//api/name/didReceiveCouponByEmail:</Anchor>
+            <NodeRef refid="8"/>
+		</Token>
+		
+		<Token>
 			<TokenIdentifier>//apple_ref/occ/intfm/CouponAuthorDelegate/didReceiveCouponByBarcodeValue:</TokenIdentifier>
 			<Abstract type="html">Informs the CouponAuthorDelegate that the coupon has been retrieved</Abstract>
 			<DeclaredIn>CouponAuthorDelegate.h</DeclaredIn>
