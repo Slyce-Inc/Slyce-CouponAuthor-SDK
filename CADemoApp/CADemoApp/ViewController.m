@@ -47,6 +47,9 @@
 -(void) didReceiveCouponById:(SSCoupon *)coupon
 {
     NSLog(@"didReceiveCouponById coupon %@",coupon);
+    
+    // Coupon tracking method
+    [coupon trackCouponImpression];
 }
 
 -(void) didReceiveCouponByBarcodeValue:(SSCoupon *)coupon

@@ -72,4 +72,11 @@
 
     @property (nonatomic, readonly) SSAdvertiser *advertiser;
 
+
+/*!
+ *  @brief trackCouponImpression - Allows you to track impressions of relevant coupons back to the Coupon Author system.
+ */
+-(void)trackCouponImpression;
+
+
 @end

@@ -601,6 +601,18 @@
 		</Token>
 		
 		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/trackCouponImpression</TokenIdentifier>
+			<Abstract type="html">trackCouponImpression - Allows you to track impressions of relevant coupons back to the Coupon Author system.</Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>- (void)trackCouponImpression</Declaration>
+			
+			
+			<Anchor>//api/name/trackCouponImpression</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
 			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/initFromDict:</TokenIdentifier>
 			<Abstract type="html"></Abstract>
 			<DeclaredIn>SSCoupon+Private.h</DeclaredIn>
