@@ -613,6 +613,18 @@
 		</Token>
 		
 		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/trackCouponClick</TokenIdentifier>
+			<Abstract type="html">trackCouponClick - Allows you to track clicks on coupons back to the Coupon Author system.</Abstract>
+			<DeclaredIn>SSCoupon.h</DeclaredIn>
+			
+			<Declaration>- (void)trackCouponClick</Declaration>
+			
+			
+			<Anchor>//api/name/trackCouponClick</Anchor>
+            <NodeRef refid="5"/>
+		</Token>
+		
+		<Token>
 			<TokenIdentifier>//apple_ref/occ/instm/SSCoupon/initFromDict:</TokenIdentifier>
 			<Abstract type="html"></Abstract>
 			<DeclaredIn>SSCoupon+Private.h</DeclaredIn>

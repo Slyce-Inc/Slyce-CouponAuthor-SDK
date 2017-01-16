@@ -78,5 +78,8 @@
  */
 -(void)trackCouponImpression;
 
-
+/*!
+ * @brief trackCouponClick - Allows you to track clicks on coupons back to the Coupon Author system.
+ */
+-(void)trackCouponClick;
 @end
