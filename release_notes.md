@@ -1,6 +1,12 @@
 CouponAuthor SDK Changelog
 ===================================
 
+1.5 - 2017/01/23
+------------------
+
+* FIXED Redeem event reporting
+* REMOVED events cashing forced by operating system
+
 1.4 - 2017/01/16
 ------------------
 
